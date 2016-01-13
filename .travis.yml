@@ -47,3 +47,4 @@ deploy:
 
   on:
     go: 1.5
+    all_branches: true
