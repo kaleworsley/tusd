@@ -46,6 +46,4 @@ deploy:
   skip_cleanup: true
 
   on:
-    tags: true
-    go: 1.4
-    repo: tus/tusd
+    go: 1.5
